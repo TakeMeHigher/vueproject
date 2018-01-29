@@ -1,0 +1,16 @@
+.new_item{
+  width: 980px;
+}
+.new_item:after{
+  content:"";
+  display:block;
+  clear:both;
+}
+.new_item .p1{
+  float:left;
+  width:780px;
+}
+.new_item .img{
+  float:right;
+
+}
